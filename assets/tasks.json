@@ -1,0 +1,10 @@
+[
+  {
+    "id": "sample-open",
+    "title": "Открой рот",
+    "exercise": "open",
+    "reward": 10,
+    "date": "2026-07-12",
+    "done": false
+  }
+]
